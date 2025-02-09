@@ -65,6 +65,13 @@ const movies = [
     genre: { _id: "5b21ca3eeb7f6fbccd471818", name: "Action" },
     numberInStock: 7,
     dailyRentalRate: 3.5
+  },
+  {
+    _id: "5b21ca3eeb7f6fbccd412345",
+    title: "Jaws",
+    genre: { _id: "5b21ca3eeb7f6fbccd454321", name: "Thriller" },
+    numberInStock: 8,
+    dailyRentalRate: 2.5
   }
 ];
 
